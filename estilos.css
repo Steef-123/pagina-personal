@@ -1,0 +1,293 @@
+body {
+  font-family: "Poppins";
+  margin: 0;
+  padding: 0;
+}
+
+p {
+  font-size: 20px;
+}
+
+li {
+  list-style: none;
+  margin-right: 25px;
+  margin-top: 30px;
+}
+
+.primer-elemento {
+color: pink;
+
+}
+
+#primero {
+  font-size: 30px;
+}
+
+
+
+.menu {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.lista {
+  display: flex;
+}
+
+a {
+  text-decoration: none;
+  color: black;
+  background: linear-gradient(#8CD5FF, #0087D6);
+  border-radius: 10px;
+}
+
+.titular{
+  text-align: center;
+  margin-top: 200px;
+}
+
+h1 {
+  font-size: 60px;
+  margin: 0;
+}
+
+h2 {
+  font-size: 25px;
+  margin-bottom: 40px;
+}
+
+
+a {
+  font-size: 14px;
+  background-color: #00AAD9;
+  padding: 20px 40px 20px 40px;
+  color: white;
+
+}
+
+header {
+  background: url(fondo2.jpg);
+  height: 100vh;
+  background-size: cover;
+}
+
+.contenedor {
+  max-width: 1280px;
+  width: 90%;
+  margin: auto;
+}
+
+h3 {
+  text-align: center;
+  font-size: 55px;
+  font-weight: normal;
+  background: linear-gradient(#8CD5FF, #0087D6);
+  -webkit-background-clip: text;
+    color: transparent;
+}
+
+
+.contenedor-sobremi {
+  display:flex;
+  justify-content: space-around;
+  align-items: center;
+
+}
+
+.contenedor-parrafo-y-boton {
+  width: 42%;
+
+}
+
+.contenedor-parrafo-y-boton  p {
+font-size: 20px;
+}
+
+.parrafo-final {
+  margin-bottom: 30px;
+}
+
+.contenedor-servicio {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around;
+}
+
+
+.Servicio {
+  width: 25%;
+  padding: 50px 38px 50px 38px;
+  border-radius: 10px;
+  margin-bottom: 40px;
+  color: #fff;
+
+}
+
+.celeste {
+  background: linear-gradient(#8CD5FF, #0087D6);
+
+}
+
+.verde {
+  background: linear-gradient(#0087D6, #8CD5FF);
+}
+
+.Servicio h4{
+  font-size: 30px;
+  margin: 0;
+}
+
+.Servicio img {
+  float: center;
+}
+
+.Servicio p{
+  font-size: 18px;
+  height: 200px;
+}
+
+span  {
+font-size: 80px;
+color: #00AAD9;
+
+}
+
+.owl-nav  {
+text-align: center;
+
+}
+
+.contenedor-porque  {
+display: flex;
+justify-content: space-around;
+text-align: center;
+
+}
+
+.contenedor-porque h4{
+  margin: 0;
+  font-size: 20px;
+}
+
+.contenedor-porque p {
+  font-size: 16px;
+  line-height: 30px;
+  margin: 7px;
+}
+
+.porque-singular {
+  width: 30%;
+}
+
+#blog {
+  background: #;
+  padding-top: 50px;
+  padding-bottom: 50px;
+}
+
+.contenedor-publicaciones {
+  display: flex;
+  justify-content: space-around;
+}
+
+.publicacion {
+  width: 30%;
+  box-shadow: 1px  1px  14px  #ccc;
+  padding-bottom: 20px;
+}
+
+#blog img {
+  width: 100%;
+}
+
+#blog h4 {
+  font-size: 23px;
+  margin: 0;
+  padding: 20px;
+}
+
+#blog p {
+  color: black;
+  line-height: 24px;
+  font-size: 16px;
+  padding: 10px 20px 20px 20px;
+}
+
+#blog a {
+  display: inline-block;
+  margin-left: 20px;
+}
+
+.publicacion-segunda img {
+  height: 245px;
+}
+
+.primer-parrafo {
+  padding: 0px 20px 20px 20px !important;
+}
+
+
+#que-esperas {
+  background: linear-gradient(rgb(0, 135, 214), rgb(140, 213, 255));
+  text-align: center;
+  padding: 50px 0 50px 0;
+}
+
+#que-esperas h3 {
+  font-size: 25px;
+  color: #fff;
+  margin-bottom: 40px;
+}
+
+#que-esperas a {
+  padding: 15px 35px 15px 35px;
+  transition: 1s;
+  background: white;
+  color: #80D1FF;
+  font-weight: bold;
+}
+
+#que-esperas a:hover {
+  color: #0087D6;
+  transition: 1s;
+  transform: scale(1.1);
+  display: inline-block;
+}
+
+#whatsapp a {
+  background: none;
+  position: fixed;
+  top: 85%;
+  right: 15px;
+}
+
+.video {
+  text-align: center;
+}
+
+.pdf {
+  text-align:center;
+  margin-top: 50px;
+  margin-bottom: 100px;
+
+}
+
+.pdf-texto {
+  text-align:center;
+
+}
+
+.correo {
+  text-align: center;
+}
+
+.correo h4 {
+  margin: 50px;
+}
+
+
+.requisitos{
+  display: flex;
+  text-align: center;
+}
